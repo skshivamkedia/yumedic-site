@@ -1,0 +1,14 @@
+.modalclass {
+	position: fixed;
+	top: 20vh;
+	left: 35vw;
+	width: 30vw;
+	z-index: 10000;
+}
+
+@media screen and (max-width: 540px) {
+	.modalclass {
+		width: 50vw;
+		left: 25vw;
+	}
+}

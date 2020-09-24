@@ -1,0 +1,29 @@
+.fixed {
+	position: fixed;
+}
+
+.navbar {
+	width: 100%;
+	z-index: 1000;
+	position: fixed !important;
+	height: 53px;
+}
+
+.navbar-brand {
+	color: #f1586a !important;
+	font-size: 24px !important;
+}
+
+.navbar-brand :hover {
+	font-size: 244px !important;
+}
+
+li a {
+	font-weight: 700;
+	color: #00fde1 !important;
+}
+
+.nav-item :hover {
+	font-weight: 700;
+	color: rgb(191, 240, 241) !important;
+}

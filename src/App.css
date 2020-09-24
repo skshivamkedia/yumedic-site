@@ -1,0 +1,33 @@
+.specialities {
+	display: flex;
+	align-items: space-around;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+@media screen and (max-width: 540px) {
+	.inputField {
+		display: none;
+	}
+	.inputButton {
+		visibility: hidden;
+	}
+	.search {
+		width: '30%';
+	}
+}
+
+.anotherAppointment {
+	background-color: #1b1b30 !important;
+	color: #fff;
+}
+
+.activeDate {
+	background-color: chartreuse;
+}
+
+.activeTime {
+	background-color: cornflowerblue;
+}

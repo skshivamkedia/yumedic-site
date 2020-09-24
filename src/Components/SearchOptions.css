@@ -1,0 +1,27 @@
+.searchLocName {
+	margin: 0 5px;
+}
+
+.searchSpe {
+	margin: 0 5px;
+}
+
+.searchbtn {
+	margin: 0 5px;
+}
+
+@media (max-width: 768px) {
+	.searchLocName {
+		width: 75%;
+	}
+
+	.searchSpe {
+		width: 41%;
+		margin-right: 1.5%;
+	}
+
+	.searchbtn {
+		width: 31%;
+		margin-left: 1.5%;
+	}
+}

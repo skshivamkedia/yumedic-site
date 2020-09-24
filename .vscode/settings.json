@@ -1,0 +1,8 @@
+{
+	"editor.formatOnSave": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.semi": false,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.jsxBracketSameLine": true
+}
